@@ -8,7 +8,7 @@ Atualmente, estou residindo em Sombrio, uma pequena cidade situada no litoral ca
 ## Informações Detalhadas
 
 - Nome: Felipe Diello Pardo
-- Idade: 34 anos
+- Idade: 36 anos
 - Habilidades: Trabalho em Equipe, Gestão de pessoas, Gestão de processos, Metodologia Ágil
 - Atualmente aprendendo: JavaScript, HMTL, CSS, Solidity
 - Formação: Eng. de Produção Elétrica - UFSC
